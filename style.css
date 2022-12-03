@@ -1,0 +1,30 @@
+body {
+    background: radial-gradient(white, blue);
+}
+
+.game-card {
+    height: 100vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.card-header {
+    background-color:royalblue;
+}
+
+.button {
+    margin-top: 10px;
+    margin-left: 70px;
+}
+
+#goGeneration {
+    background-color:dodgerblue;
+    width: 150px;
+    height: 50px;
+}
+
+#clearGeneration {
+    background-color:dodgerblue;
+    width: 150px;
+    height: 50px;
+    margin-left: 100px;
+}
